@@ -1,0 +1,4 @@
+secret_key = my_super_secret_key
+algorithm = HS256
+host = localhost
+session_time_in_secs = 1300
